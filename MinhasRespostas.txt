@@ -1,4 +1,16 @@
 1) O que é um repositório?
+
+É uma tipo de "pasta" onde você pode armazenar seus códigos de programações.
+
 2)Qual a diferença entre Git e GitHub?
+
+O GitHub só suporta o Git, já o Git não depende do GitHub para subir os códigos.
+
 3)Porque utilizar controle de versão para os arquivos de um projeto de desenvolvimento de software?
-4)Quais vantyagens você enxerga no Git?Você utilizaria em seu projeto?
+
+Para modificar os projetos.
+
+4)Quais vantagens você enxerga no Git?Você utilizaria em seu projeto?
+
+Outras pessoas poderem visualizar minhas modificações e ajusta-las também.
+Sim. É uma ferramenta bem interessante.
